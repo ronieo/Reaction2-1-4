@@ -1,6 +1,4 @@
-// <⚠️ DONT DELETE THIS ⚠️>
 import "./styles.css";
-// <⚠️ /DONT DELETE THIS ⚠️>
 const select = document.querySelector("select"),
   option = select.querySelector("option"),
   COUNTRY = "country";
